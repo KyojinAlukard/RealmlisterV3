@@ -1,0 +1,24 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="WoW_Realmlist_Switcher_v3.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="author_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://www.frostlords.com</Value>
+    </Setting>
+    <Setting Name="xml_filename" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">wrs_config.xml</Value>
+    </Setting>
+    <Setting Name="clear_cache" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="version_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://github.com/Asandru/Realmlister-v3/master/VERSION.txt</Value>
+    </Setting>
+    <Setting Name="update_url" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://github.com/Asandru/Realmlister-v3/releases</Value>
+    </Setting>
+    <Setting Name="app_version" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">300</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
