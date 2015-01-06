@@ -1,0 +1,11 @@
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\bin\Release\WoW Realmlist Switcher v3.exe.config
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\bin\Release\WoW Realmlist Switcher v3.exe
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\bin\Release\WoW Realmlist Switcher v3.pdb
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW Realmlist Switcher v3.csprojResolveAssemblyReference.cache
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW_Realmlist_Switcher_v3.Form1.resources
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW_Realmlist_Switcher_v3.Form2.resources
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW_Realmlist_Switcher_v3.Form3.resources
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW_Realmlist_Switcher_v3.Properties.Resources.resources
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW Realmlist Switcher v3.csproj.GenerateResource.Cache
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW Realmlist Switcher v3.exe
+E:\developer\VS Projects\WoW Realmlist Switcher v3\WoW Realmlist Switcher v3\obj\Release\WoW Realmlist Switcher v3.pdb

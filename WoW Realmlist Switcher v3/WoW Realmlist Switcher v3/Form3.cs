@@ -27,16 +27,13 @@ namespace WoW_Realmlist_Switcher_v3
         private void Form3_Load(object sender, EventArgs e)
         {
             int webVersion = 0;
-            int appVersion = 0;
-
-            bool appParsed = Int32.TryParse(Settings.Default["app_version"].ToString(), out appVersion);
             bool webParsed = Int32.TryParse(MyFunctions.GetAppVersion(), out webVersion);
 
-            label2.Text = appVersion.ToString();
+            label2.Text = Settings.Default.app_version.ToString();
 
-            if (appParsed && webParsed)
+            if (webParsed)
             {
-                if (webVersion > appVersion)
+                if (webVersion > Settings.Default.app_version)
                 {
                     button1.Text = "Download Latest Version: " + webVersion;
                     button1.Enabled = true;

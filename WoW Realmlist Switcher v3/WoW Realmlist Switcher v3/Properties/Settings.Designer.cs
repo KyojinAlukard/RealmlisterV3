@@ -55,7 +55,7 @@ namespace WoW_Realmlist_Switcher_v3.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("https://github.com/Asandru/Realmlister-v3/master/VERSION.txt")]
+        [global::System.Configuration.DefaultSettingValueAttribute("https://raw.githubusercontent.com/Asandru/Realmlister-v3/master/VERSION.txt")]
         public string version_url {
             get {
                 return ((string)(this["version_url"]));
@@ -73,10 +73,10 @@ namespace WoW_Realmlist_Switcher_v3.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("300")]
-        public string app_version {
+        [global::System.Configuration.DefaultSettingValueAttribute("299")]
+        public int app_version {
             get {
-                return ((string)(this["app_version"]));
+                return ((int)(this["app_version"]));
             }
         }
     }
