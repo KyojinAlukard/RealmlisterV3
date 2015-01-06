@@ -28,7 +28,7 @@ namespace WoW_Realmlist_Switcher_v3
         {
             int webVersion = 0;
             bool webParsed = Int32.TryParse(MyFunctions.GetAppVersion(), out webVersion);
-
+            Settings.Default.Reload();
             label2.Text = Settings.Default.app_version.ToString();
 
             if (webParsed)
