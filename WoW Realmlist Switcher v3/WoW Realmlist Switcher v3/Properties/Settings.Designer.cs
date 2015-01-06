@@ -73,7 +73,7 @@ namespace WoW_Realmlist_Switcher_v3.Properties {
         
         [global::System.Configuration.ApplicationScopedSettingAttribute()]
         [global::System.Diagnostics.DebuggerNonUserCodeAttribute()]
-        [global::System.Configuration.DefaultSettingValueAttribute("299")]
+        [global::System.Configuration.DefaultSettingValueAttribute("300")]
         public int app_version {
             get {
                 return ((int)(this["app_version"]));
