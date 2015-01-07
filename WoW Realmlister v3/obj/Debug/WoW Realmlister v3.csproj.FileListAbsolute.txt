@@ -1,0 +1,12 @@
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\bin\Debug\WoW Realmlister v3.exe.config
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\bin\Debug\WoW Realmlister v3.exe
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\bin\Debug\WoW Realmlister v3.pdb
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW_Realmlister_v3.Form1.resources
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW_Realmlister_v3.Form2.resources
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW_Realmlister_v3.Form3.resources
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW_Realmlister_v3.Properties.Resources.resources
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW Realmlister v3.csproj.GenerateResource.Cache
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW Realmlister v3.exe
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW Realmlister v3.pdb
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW Realmlister v3.csprojResolveAssemblyReference.cache
+E:\developer\VS Projects\Realmlister-v3\WoW Realmlister v3\obj\Debug\WoW_Realmlister_v3.Form4.resources
